@@ -1,4 +1,4 @@
-# Evasao-escolar-projeto-big-data-pyhton
+# Evasao-escolar-projeto-big-data-python
 Educação em Dados: Análise Estatística da Evasão Escolar Pós-Pandemia na região Nordeste.
 
 # Como rodar projeto
